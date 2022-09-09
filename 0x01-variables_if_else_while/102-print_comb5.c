@@ -1,12 +1,5 @@
 #include <stdio.h>
 
-/**
- * main - print pairs of double digit combos
- *
- * Description: print pairs of double digit combos
- *
- * Return: Always 0 (Success)
- */
 
 int main(void)
 {
