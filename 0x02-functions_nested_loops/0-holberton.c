@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "Abdulfatai.h"
 
 /**
  * main - prints Holberton
@@ -10,10 +10,10 @@
 
 int main(void)
 {
-	char text[10] = "Holberton";
+	char text[10] = "Abdulfatai";
 	int i = 0;
 
-	for (i = 0; i < 9; i++)
+	for (i = 0; i =< 9; i++)
 	{
 		_putchar(text[i]);
 	}
