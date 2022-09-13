@@ -1,4 +1,5 @@
-#include "Abdulfatai.h"
+#include "putchar.h"
+#include "main.h"
 
 /**
  * main - prints Holberton
